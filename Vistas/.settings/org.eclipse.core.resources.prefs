@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/uniajc/model/Docente.java=UTF-8
+encoding//src/com/uniajc/model/Persona.java=UTF-8
+encoding//src/com/uniajc/ws/DocenteServiceImpl.java=UTF-8
+encoding//src/com/uniajc/ws/DocenteServiceImplService.java=UTF-8
+encoding//src/com/uniajc/ws/DocenteServiceImplServiceLocator.java=UTF-8
+encoding//src/com/uniajc/ws/DocenteServiceImplSoapBindingStub.java=UTF-8
